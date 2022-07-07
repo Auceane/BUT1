@@ -1,0 +1,97 @@
+ SAÉ S2.06 Organisation d'un travail d'équipe
+
+
+
+Objectif :
+
+Collaborer au sein d'une équipe informatique
+Identifier ses aptitudes pour travailler dans une équipe
+
+
+
+Projet :
+
+Les concours d'éloquence se développent dans les formations et, commençons par
+l'imaginer pour que cela devienne réalité, l'Université Sorbonne Paris Nord souhaite
+organiser une grande journée sur l'éloquence le vendredi 17 juin 2022 ! 
+C'est l'occasion de mettre en place un site pour organiser l'événement, 
+qui aura pour mission de présenter le principe et l'intérêt des concours d'éloquence, 
+de rappeler ceux qui se sont déroulés à l'USPN et de préparer la journée, fictive, 
+du 17 juin 2022.
+Par chance, le 14 avril 2022, est prévu le concours d'éloquence du département
+Informatique de l'lut de Villetaneuse: à vous de jouer pour rendre compte de
+l'événement (photos, compte rendu, interviews, sondages...) et l'intégrer 
+comme exemple dans le site que vous allez concevoir.L'université veut mettre 
+les créateurs à l'honneur : une page présentant votre équipe
+sera à prévoir dans votre site, avec des photos et les missions de chacun(e).
+L'objectif est de faire découvrir le concours à d'autres formations, 
+y compris en dehors des frontières pour les établissements 
+partenaires : prévoir une version anglaise de votre site que les relations 
+internationales pourront valoriser.
+L'organisation de la journée du 17 juin 2022 est 
+centrale: il est attendu un programme
+et une affiche - qui pourra être dessinée - de la journée.
+
+
+
+Mode opératoire :
+
+1. S'organiser en équipe de 5-6 étudiant(e)s et choisir un(e) chef de projet.
+
+2. Définir avec précision les contours du projet et déterminer les priorités en termes
+   d'organisation et de livrables. Attention, l'objectif n'est pas seulement de réaliser un site,
+   c'est aussi d'imaginer un événement (journée du 17 juin), et l'occasion de structurer une
+   équipe efficace par la répartition des rôles et des missions en fonction des compétences de
+   chacun(e): les tâches sont très variées.
+
+3. Constituer son équipe avec les missions et les postes en s'appuyant sur la
+   connaissance des métiers de l'informatique pour le site (voir partie Ressources).
+
+4. Établir une feuille de route collective de l'équipe et la fiche mission de chaque
+   personne en fonction de son rôle, qui évoluera selon les étapes du projet. La finale du 14
+   avril est essentielle mais ce n'est pas votre seule ressource. À vous de vous organiser
+   pour prévoir des tâches ce jour-là (questions aux candidats, au jury, au public, compte-
+   rendu de la matinée, photos, vidéos...), mais aussi dans les jours suivants : vous pourrez
+   poursuivre ensuite par exemple par un sondage auprès des étudiants de l'IUT ou
+   recueillir le point de vue des enseignants, les retours de vos camarades qui ont participé
+   aux sélections dans les différents groupes, ou encore interroger les candidats
+   sélectionnés mais non retenus, etc. Vous pouvez aussi compléter ce contenu original en
+   élargissant le champ: vous renseigner sur l'éloquence, sur le phénomène des concours
+   (origine, développement), sur leurs apports personnels, leur valorisation
+   professionnelle, interroger des spécialistes ou vous référer à leurs analyses (en citant
+   vos sources), etc. Tout cela fournira au site son contenu, et vous permettra de réfléchir
+   au programme que vous proposerez pour la journée du 17 juin.
+
+5. Organiser la communication en interne (interactions à imaginer dans l'équipe,
+   outils de communication, fichiers partagés) et à l'externe (sondages, modalités
+   d'interview, reportage, capsules vidéo...).
+
+6. Réaliser 5 livrables détaillés ci-dessous.
+
+
+
+Livrables :
+
+1. Feuille de route chronologique détaillée des étapes du projet et des missions de
+   chacun(e) (aidez-vous des outils de gestion de projet et justifiez la répartition des
+   tâches, quantitativement et qualitativement).
+
+2. Journal de bord répertoriant le contenu déjà rassemblé, et les actions programmées
+   pour le compléter: interview (date, personne rencontrée, durée, support), sondage,
+   reportage photos, vidéos (attention au droit à l'image), documentation...
+
+3. Affiche et programme de la journée du 17 juin 2022
+
+4. Site internet composé de 3 pages :
+	- une page d'accueil présentant l'événement du 17 juin 2022
+	- une page sur le concours d'éloquence du 14 avril 2022 et ses prolongements possibles
+	- une page présentant votre équipe de travail et détaillant chaque rôle, éventuellement à
+	  la manière de « Welcome to the jungle » (capsule vidéo, valeurs, mots clés...) cf la partie
+	  Ressources.
+   Vous serez attentifs aux questions juridiques et à la possibilité de visiteurs de
+   différentes nationalités.
+
+5. Présentation du site et bilan du projet et du travail en équipe sous la forme d'une
+   soutenance de 15/20 mn avec support.
+
+
