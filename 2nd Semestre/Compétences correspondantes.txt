@@ -1,15 +1,8 @@
 #############################################################################
 #	Mise en page :                                                      #
-#		Matière/s : -SAE X.XX seul/équipe:X                         #
+#		Matière/s : -SAE 2.XX seul/équipe:X                         #
 #                                                                           #
 #############################################################################
-
-Python : -SAE 1.01 équipe:2
-	 -SAE 1.02 équipe:2
-
-Réseaux :-SAE 1.03 seul
-
-HTML/CSS/JavaScript/Communication : -SAE 1.05 seul
 
 Java : -SAE 2.01 équipe:2
 
